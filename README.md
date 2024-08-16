@@ -1,0 +1,4 @@
+# **Market Segmentation** 📊👥
+
+### **About** ✍️  
+This project involves the development of a sophisticated **clustering model** designed to segment customers into distinct, meaningful groups based on their behaviors, preferences, and demographics. By applying advanced unsupervised learning techniques, the model uncovers hidden patterns and relationships within the data, allowing businesses to target specific customer segments more effectively. To enhance accessibility and ease of use, a **Streamlit interface** has been integrated, providing a user-friendly platform for interacting with the model, visualizing the segmentation results, and exploring different clustering scenarios in real-time. This project underscores the importance of data-driven decision-making in modern marketing strategies.
